@@ -1,4 +1,4 @@
-<img align="left" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="sainadh-1919" width= "450" height="200px" />
+<img align="left" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="sainadh-1919" width= "450" height="200px" style="margin-left:"40px" "/>
 <br>
 <h1 align="center">Hi 👋, I'm Sainadh</h1>
 <h3 align="center">Dynamic Full Stack Developer specializing in Java with a passion for creating seamless user experiences. Proficient in frontend technologies such as HTML, CSS, and JavaScript. Committed to delivering innovative and efficient solutions.</h3>
