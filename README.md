@@ -1,4 +1,4 @@
-<img align="left" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="sainadh-1919" width= "100" />
+<img align="left" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="sainadh-1919" width= "1000" />
 github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo
