@@ -1,20 +1,4 @@
-<img align="left" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="sainadh-1919" width= "1000" />
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18591
-Fork on GitHub
-5538
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
+<img align="left" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" alt="sainadh-1919" width= "1000" height="400px" />
 <h1 align="center">Hi 👋, I'm Sainadh</h1>
 <h3 align="center">Dynamic Full Stack Developer specializing in Java with a passion for creating seamless user experiences. Proficient in frontend technologies such as HTML, CSS, and JavaScript. Committed to delivering innovative and efficient solutions.</h3>
 
